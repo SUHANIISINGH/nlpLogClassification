@@ -44,8 +44,10 @@ classification.log/
 ```
 ## Tech Stack
 
-- **Language:** Python
-- **API Framework:** FastAPI
-- **Modeling:** Scikit-learn, Pandas, Numpy
-- **Serving:** Uvicorn (FastAPI ASGI server)
-- **Environment Management:** `.env` file (excluded via `.gitignore`)
+| Area        | Tools Used           |
+|-------------|----------------------|
+| Backend     | FastAPI, Uvicorn     |
+| Frontend    | HTML/CSS/JS (optional) |
+| ML/NLP      | Scikit-learn, Pandas, Numpy |
+| API Testing | Postman              |
+| Secrets     | `.env` file (managed securely) |
