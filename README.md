@@ -42,3 +42,10 @@ classification.log/
 ├── .ipynb_checkpoints/            # Global Jupyter checkpoint folder (can be ignored)
 ├── __pycache__/                   # Python bytecode cache files (auto-generated)
 ```
+## Tech Stack
+
+- **Language:** Python
+- **API Framework:** FastAPI
+- **Modeling:** Scikit-learn, Pandas, Numpy
+- **Serving:** Uvicorn (FastAPI ASGI server)
+- **Environment Management:** `.env` file (excluded via `.gitignore`)
