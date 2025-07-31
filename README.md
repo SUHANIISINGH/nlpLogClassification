@@ -47,7 +47,7 @@ classification.log/
 | Area        | Tools Used           |
 |-------------|----------------------|
 | Backend     | FastAPI, Uvicorn     |
-| Frontend    | HTML/CSS/JS (optional) |
+| Frontend    | HTML/CSS/JS |
 | ML/NLP      | Scikit-learn, Pandas, Numpy |
 | API Testing | Postman              |
 | Secrets     | `.env` file (managed securely) |
